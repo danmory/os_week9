@@ -1,0 +1,9 @@
+1) Sequence to increase Hit/Miss ratio:
+1 1 1 1 1 1 ..
+The more duplicate references are next to each other -> 
+-> High Hit/Miss ratio
+
+2) Sequence to decrease Hit/Miss ratio:
+1 2 3 4 5 6 7 8 ..
+The more different links are next to each other ->
+-> Low Hit/Miss ratio
